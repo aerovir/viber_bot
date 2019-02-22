@@ -6,7 +6,7 @@ use Viber\Bot;
 use Viber\Api\Event;
 use Viber\Api\Signature;
 
-require_once(__DIR__.'/Functions.php');
+require_once(__DIR__ . '/Functions.php');
 
 /**
  * @author Novikov Bogdan <hcbogdan@gmail.com>
